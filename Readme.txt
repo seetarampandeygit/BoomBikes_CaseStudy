@@ -1,5 +1,6 @@
 # BoomBikeSharing Case Study
-> This Multiple Linear Regression study seeks to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+
+This Multiple Linear Regression study seeks to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 
 ## Table of Contents
@@ -33,6 +34,8 @@
 - matplotlib - version 3.8.4
 - seaborn - version 0.13.2
 - pandas - version 2.2.2
+- scikit-learn (or sklearn): 1.4.2
+- statsmodels: 0.14.2
 
 ## Dataset Reading
 - Headers and Top-5 rows
